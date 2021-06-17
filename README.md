@@ -1,1 +1,1 @@
-# iOS-Core-Data-Study
+# Core Data Study
